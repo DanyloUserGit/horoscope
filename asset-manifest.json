@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/horoscope/static/js/main.cb1b4d21.js",
+    "index.html": "/horoscope/index.html",
+    "main.cb1b4d21.js.map": "/horoscope/static/js/main.cb1b4d21.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cb1b4d21.js"
+  ]
+}
